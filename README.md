@@ -7,14 +7,14 @@ I enjoy creating clean, scalable, and practical solutions — from backend archi
 ## 💻 What I Do
 - Build backend systems with **Python** and **Django**
 - Develop APIs and structured web applications
-- Create modern frontend interfaces using **Vue 3** and **JavaScript**
+- Create modern frontend interfaces using **Vue 3**, **JavaScript**, **Nuxt3**
 - Work with **HTML**, **CSS**, and reusable UI components
 - Collaborate on team-based projects using **Git & GitHub**
 - Explore **Cloud Coding**, deployment workflows, and modern development environments
 
 ## 🚀 Tech Stack
 - **Backend:** Python, Django, Django REST Framework
-- **Frontend:** JavaScript, Vue 3, HTML5, CSS3
+- **Frontend:** JavaScript, Vue 3, HTML5, CSS3, Nuxt3
 - **Tools:** Git, GitHub
 - **Workflow:** Team Collaboration, Clean Architecture, API-driven Development
 - **Other:** Cloud Coding, Deployment Basics
