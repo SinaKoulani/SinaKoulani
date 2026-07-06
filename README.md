@@ -1,6 +1,6 @@
 # Hi, I'm Sina 👋
 
-Full Stack Developer focused on building modern web applications with **Django, Python, Vue 3, and JavaScript**.
+Full Stack Developer focused on building modern web applications with **Django, Python, Vue 3,Nuxt3, and JavaScript**.
 
 I enjoy creating clean, scalable, and practical solutions — from backend architecture and authentication systems to responsive frontend interfaces.
 
